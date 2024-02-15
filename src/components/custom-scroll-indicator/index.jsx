@@ -70,6 +70,7 @@ const CustomScrollIndicator = ({ url }) => {
         <h1>Scroll Progress Indicator</h1>
         <p>
           Scrolled:
+          {' '}
           {Math.floor(scrollPercentage)}
           %
         </p>
