@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <CustomScrollIndicator />
+      <CustomScrollIndicator url={'https://dummyjson.com/products?limit=100'}/>
     </div>
   );
 }
