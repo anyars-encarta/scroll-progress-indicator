@@ -60,7 +60,7 @@ const CustomScrollIndicator = ({ url }) => {
     return (
         <div>
             <div className="top-container">
-                <h1>Custome Scroll Indicator</h1>
+                <h1>Scroll Progress Indicator</h1>
                 <p>Scrolled: {Math.floor(scrollPercentage)}%</p>
 
                 <div className="scroll-progress-tracking-container">
