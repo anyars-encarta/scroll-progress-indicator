@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scroll-progress-indicator/static/css/main.37acd0e8.css",
+    "main.js": "/scroll-progress-indicator/static/js/main.a7416793.js",
+    "static/js/592.3b71dfa3.chunk.js": "/scroll-progress-indicator/static/js/592.3b71dfa3.chunk.js",
+    "index.html": "/scroll-progress-indicator/index.html",
+    "main.37acd0e8.css.map": "/scroll-progress-indicator/static/css/main.37acd0e8.css.map",
+    "main.a7416793.js.map": "/scroll-progress-indicator/static/js/main.a7416793.js.map",
+    "592.3b71dfa3.chunk.js.map": "/scroll-progress-indicator/static/js/592.3b71dfa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37acd0e8.css",
+    "static/js/main.a7416793.js"
+  ]
+}
