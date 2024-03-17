@@ -39,7 +39,7 @@
 <!-- INTRO -->
 # 📖 QR Code Generator<a name="about-project"></a>
 
-> Scroll Progress Indicator is an interactive app that displays the progress of a user scrolling through the page. The progress is displayed both by a progress bar and by percentage. This scroll progress indicator could be integrated into any app that requires a similar functionality.
+> Scroll Progress Indicator is an interactive app that displays the progress of a user scrolling through the page. The progress is displayed both by a progress bar and by percentage. This scroll progress indicator could be integrated into any app that requires a similar functionality. functionality.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
